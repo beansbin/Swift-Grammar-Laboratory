@@ -9,4 +9,5 @@
 |<center></center> | <center> [옵셔널 체이닝과 빠른 종료(Optional Chaining and Early Exit)](https://beansbin.oopy.io/4799b49b-474d-4b08-acd5-b6d6cbe522f9)</center> |
 |<center></center> | <center> [맵, 필터, 리듀스(Map, Filter, Reduce)](https://beansbin.oopy.io/7939509a-cd61-462d-a355-e0e773c04a21)</center> |
 |<center></center> | <center> [서브스크립트(subscript)](https://beansbin.oopy.io/c769c023-a048-4eb8-97fb-94629bf02109)</center> |
+|<center></center> | <center> [상속](https://beansbin.oopy.io/e62b5f7f-7850-4226-8ba1-186481880e71)</center> |
 
