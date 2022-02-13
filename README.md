@@ -11,4 +11,5 @@
 |<center>**Part 4**</center> | <center> [서브스크립트(subscript)](https://beansbin.oopy.io/c769c023-a048-4eb8-97fb-94629bf02109)</center> |
 |<center></center> | <center> [상속(Inheritance)](https://beansbin.oopy.io/e62b5f7f-7850-4226-8ba1-186481880e71)</center> |
 |<center></center> | <center> [타입캐스팅(Type Casting)](https://beansbin.oopy.io/fe3ff270-0395-4cb6-9ae5-2b67598b6823)</center> |
+|<center></center> | <center> [제네릭(Generic)](https://beansbin.oopy.io/fb32519d-37d4-4d08-9871-508cca7cd00d)</center> |
 
